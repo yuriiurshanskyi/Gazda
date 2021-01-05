@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "9d2a1e79-cd44-43a0-88cd-0d8868cd723e",
+    "Name": "Yurii",
+    "Text": "\u043D\u0430\u0434\u0437\u0432\u0438\u0447\u0430\u0439\u043D\u043E \u0441\u043C\u0430\u0447\u043D\u043E",
+    "isLiked": true
+  },
+  {
+    "Id": "e8577368-9634-40cc-ba30-7e3efd8f7ec3",
+    "Name": "Arch",
+    "Text": "super taste",
+    "isLiked": true
+  },
+  {
+    "Id": "0ef91b6b-a7b5-4189-ab97-1e1b6fe4d84d",
+    "Name": "Vasia",
+    "Text": "\u041F\u0440\u043E\u0432\u0435\u043B\u0438 \u043D\u0435\u0437\u0430\u0431\u0443\u0442\u043D\u0456\u0439 \u0432\u0435\u0447\u0456\u0440. \u0412\u0441\u0435 \u0441\u043F\u043E\u0434\u043E\u0431\u0430\u043B\u043E\u0441\u044C!!!",
+    "isLiked": true
+  }
+]
