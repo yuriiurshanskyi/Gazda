@@ -1,0 +1,26 @@
+#description{
+    background-image: url("../../images/food2.jpg");
+    padding: 300px 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #some-text{
+      background-color: #403E3E;
+      color:white;
+      display: inline-block;
+      text-align: center;
+      padding: 16px;
+      width: 80%;
+  }
+  
+  #big-text{
+    font-size: 36px;
+    margin: 16px;
+    display: block;
+  }
+
+  #small-text{
+    font-size: 30px;
+    display: block;
+    }

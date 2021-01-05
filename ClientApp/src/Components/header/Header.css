@@ -1,0 +1,20 @@
+header{
+    background-image: url("../../images/food.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+#container-text{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #403E3E;
+    border: 3px solid #929090;
+    color: white;
+    padding: 77px 129px;
+    border-radius: 30px;
+    width: 300px;
+    text-align: center;
+    z-index: 30;
+}

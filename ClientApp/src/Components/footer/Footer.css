@@ -1,0 +1,38 @@
+footer
+{
+  background-color: #403E3E;
+  color: white;
+  display: flex;
+  flex-flow: column wrap;
+  align-items:  center;
+  text-align: center;
+  padding: 64px 8px;
+}
+
+footer>span{
+  margin: 16px;
+  font-size: 28px;
+}
+
+.network{
+  display: flex;
+  align-items: center;
+  width: 128px;
+
+}
+
+.network>a{
+  text-decoration: none;
+  color: white;
+}
+
+.network>a:hover{
+  cursor: pointer;
+  color: black;
+}
+
+.svg{
+  width: 32px;
+  height: 32px;
+  margin: 5px;
+}

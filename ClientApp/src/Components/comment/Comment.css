@@ -1,0 +1,44 @@
+.comment-item{
+    background-color: #403E3E;
+    border-radius: 3px;
+    margin: 10px auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    max-width: 400px;
+    width: 100%;
+}
+
+.comment-name{
+    color:white;
+    font-size: 24px;
+    text-align: left;
+}
+
+.comment-text{
+    color:white;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 15px;
+    word-wrap: break-word;
+}
+
+.like-container{
+    display: flex;
+    flex-direction: row;
+    padding-right: 10px;
+}
+
+i.likes{
+    color:red;
+}
+
+i{
+    color: white;
+    font-size: 20px;
+    /* float: left; */
+    /* text-align: right; */
+    margin-left: auto;
+}
+
